@@ -10,14 +10,14 @@ export const Form = () => {
                 className='w-full mt-8'
                 label='E-mail'
                 placeholder='E-mail'
-                inputClasses='bg-teal-950 p-4 placeholder:text-teal-600'
+                inputClasses='bg-teal-950 p-5 placeholder:text-teal-600'
                 labelClasses='text-teal-500 pb-2'
             />
             <Input
                 className='w-full mt-8'
                 label='Senha'
                 placeholder='Senha'
-                inputClasses='bg-teal-950 text-teal-400 p-4 placeholder:text-teal-600'
+                inputClasses='bg-teal-950 text-teal-400 p-5 placeholder:text-teal-600'
                 labelClasses='text-teal-500 pb-2'
                 secureTextEntry={true}
             />
